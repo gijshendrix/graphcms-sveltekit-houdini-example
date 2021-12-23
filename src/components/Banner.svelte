@@ -9,7 +9,7 @@
           title
           subtitle
           image {
-            url
+            url(transformation: {image: {resize: {height: 400}}})
           }
         }
     `, props)  

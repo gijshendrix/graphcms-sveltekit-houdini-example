@@ -2,7 +2,7 @@ import { Environment } from '$houdini'
 
 export default new Environment(async function ({ text, variables = {} }) {
 	// send the request to the api
-	const result = await this.fetch('https://api-eu-central-1.graphcms.com/v2/ckq7zh29xg0s401z6g34g75qi/master', {
+	const result = await this.fetch('https://api-us-east-1.graphcms.com/v2/ckxjdarq5323m01xp8yflcb1j/master', {
 		method: 'POST',
 		headers: {
 			'Content-Type': 'application/json',

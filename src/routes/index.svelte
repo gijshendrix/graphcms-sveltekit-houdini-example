@@ -6,4 +6,4 @@
 
 <h1>GraphCMS and Svelte!</h1>
 
-<Slot graphcms_id='ckxhlav94xmai0b545vt57lam'/>
+<Slot graphcms_id='ckxjdz3m0xob60e829rarsxf4'/>

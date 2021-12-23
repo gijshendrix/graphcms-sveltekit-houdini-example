@@ -6,9 +6,9 @@
 
 <h1>Another page!</h1>
 
-<Slot graphcms_id='ckxjco50wid6y0b607gxff5gu'/>
+<Slot graphcms_id='ckxjdzfygxy6k0d24yrah9zgp'/>
 
 <p>Some text in between</p>
 
-<Slot graphcms_id='ckxjcptzcidx00b60p08omihv'/>
+<Slot graphcms_id='ckxjdzt2oy13u0a31vke6b81g'/>
 

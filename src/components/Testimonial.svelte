@@ -7,7 +7,7 @@
   const data = fragment(graphql`
         fragment TestimonialFragment on TestimonialComponent {          
           name
-          title
+          jobTitle
           body
           avatar {
             url
@@ -20,9 +20,9 @@
 <section id="testimonail">
   <div>
     <h1>Testimonial Component</h1>
-    <p>"{props.body}"</p>
+    <h3>"{props.body}"</h3>
     <p>{props.name}</p>
-    <p>{props.title}</p>
+    <p>{props.jobTitle}</p>
     <img src={props.avatar.url} />
   </div>
 </section>
